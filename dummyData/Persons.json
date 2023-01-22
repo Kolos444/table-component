@@ -1,0 +1,22 @@
+[
+  {
+    "firstName": "Luca",
+    "lastName": "Sonntag",
+    "age": 21
+  },
+  {
+    "firstName": "Arne",
+    "lastName": "Rosenberger",
+    "age": 18
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Wolf",
+    "age": 23
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Schmidt",
+    "age": 23
+  }
+]
